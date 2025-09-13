@@ -32,4 +32,4 @@ This app uses the **50/30/20 rule**:
 
 ### Run the App
 ```bash
-python expense analyzer.py
+python expense-analyzer.py
