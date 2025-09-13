@@ -1,4 +1,4 @@
-# Expense-Analyzer
+# Expense Analyzer
 
 A lightweight command-line Python application that helps users reflect on their daily spending habits. It uses the popular **50/30/20 budgeting rule** to provide feedback on how much you're spending on necessities, wants, and savings.
 
