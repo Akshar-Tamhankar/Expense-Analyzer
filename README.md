@@ -4,7 +4,7 @@ A lightweight command-line Python application that helps users reflect on their 
 
 ---
 
-## 💡 Features
+## Features
 
 - Input daily spending on:
   - **Needs** (e.g. rent, groceries, bills)
@@ -16,7 +16,7 @@ A lightweight command-line Python application that helps users reflect on their 
 
 ---
 
-## 🧠 Budgeting Rule Used
+## Budgeting Rule Used
 
 This app uses the **50/30/20 rule**:
 - **50%** of income for needs
@@ -25,7 +25,7 @@ This app uses the **50/30/20 rule**:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.x installed
